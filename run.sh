@@ -1,1 +1,1 @@
-streamlit run src/chatbot.py
+streamlit run src/app.py

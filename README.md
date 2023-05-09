@@ -2,6 +2,13 @@
 A very basic chatbot with predefined context from the user.
 
 # Run
+## Set environment variables
+```bash
+cp .env.template .env
+```
+Add your `OPENAI_API_KEY` from [Open AI](https://platform.openai.com/account/api-keys)
+
+## Start the app
 ```bash
 zsh run.sh
 ```
